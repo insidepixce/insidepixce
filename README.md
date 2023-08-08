@@ -4,7 +4,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insidepixce&exclude_repo=baseball-simulator&hide=
-,html&layout=compact&theme=tokyonight)](https://github.com/insidepixce)
+html&layout=compact&theme=tokyonight)](https://github.com/insidepixce)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insidepixce&show_icons=true&theme=tokyonight)
 
 
