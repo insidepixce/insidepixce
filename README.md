@@ -3,9 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=006991&height=150&section=header&text=INSIDEPIXCE&fontColor=002361&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insidepixce&exclude_repo=baseball-simulator&hide=python,html&layout=compact&theme=tokyonight)](https://github.com/insidepixce)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insidepixce&show_icons=true&theme=tokyonight)
 
 
 <div align="center">
